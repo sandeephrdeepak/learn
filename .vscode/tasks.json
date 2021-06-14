@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "react/",
+			"problemMatcher": [],
+			"label": "npm: install - react",
+			"detail": "install dependencies from package"
+		}
+	]
+}

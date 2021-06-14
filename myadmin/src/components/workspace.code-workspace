@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\learn"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "http://C:\\Users\\Rohit\\AppData\\Roaming\\npm-cache\\_logs\\2021-05-05T05_24_35_750Z-debug.log",
+				"request": "launch",
+				"url": "http://C:\\Users\\Rohit\\AppData\\Roaming\\npm-cache\\_logs\\2021-05-05T05_24_35_750Z-debug.log"
+			}
+		]
+	}
+}
